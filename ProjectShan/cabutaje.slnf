@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\source\\repos\\projectCabutaje\\projectCabutaje.slnx",
+    "projects": [
+      "projectCabutaje\\projectCabutaje.csproj"
+    ]
+  }
+}
